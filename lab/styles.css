@@ -1,0 +1,22 @@
+h1{color:aliceblue
+
+}
+
+p{
+padding: 5px;
+/* box-shadow: 5px 10px #888888; */
+}
+body{
+    background-color: gray;
+    text-align: center;
+    margin: 25px;
+    padding: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+botton:hover{
+    color: blue}
+img{
+    border-radius: 10px;
+    height: 500px;
+
+}
